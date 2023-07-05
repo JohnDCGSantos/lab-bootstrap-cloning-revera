@@ -1,0 +1,16 @@
+.photo-container {
+    display: block;
+}
+
+.image-bottom {
+    width: 100%;
+}
+
+.latest-container {
+    padding-top: 100px;
+}
+
+.latest-container a {
+    text-decoration: none;
+    color: black;
+}
